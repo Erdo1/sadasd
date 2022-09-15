@@ -1,0 +1,21 @@
+    #div0{
+    height: 10vh;
+    background-color: red;
+    text-align: center;
+    }
+    #div1{
+    height: 40vh;
+    background-color: orange;
+    font-family:'Nabla', cursive;
+    font-size: xx-large;
+    }
+    #resim{
+    height: 40vh;
+    background-image: url("https://thumbs.dreamstime.com/b/tile-floor-brick-wall-background-lights-night-hd-image-large-resolution-can-be-used-as-desktop-wallpaper-real-zise-184215885.jpg");
+    background-color: currentColor;
+    position: relative;
+    }
+    #footer{
+    height: 5vh;
+    background-color: blueviolet;
+    }
