@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="portfolyo.css">
+    <title>Document</title>
+</head>
+<body>
+    <div id="ana">
+        <div id="nav">
+            <div id="logo">Portfolyo</div>
+            <div id="contact">İletişim</div>
+        </div>
+        <div id="bod">
+            <div id="isim">
+                <div id="yazı">
+                    <div id="sol" class="center"> Her Türlü İş Yapılır</div>
+                    <div id="sağ"> Elimizden Gelmeyen Yok</div>
+                    <h1 style="font-size: 70px;">Erdoğan ŞAHİN</h1>
+                    <h1>I am Entrepreneur</h1>
+                    <button>Contact Me</button>
+                    <div id="altkısım">
+                        <div id="textalt"></div><br><br><br><br><br>
+                        <h1>Everything has a price</h1><br><br><br><br><br>
+                        <h1>if u want something u have work for it</h1>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+        <div id="footer">
+
+        </div>
+    </div>
+</body>
+</html>
