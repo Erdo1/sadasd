@@ -1,0 +1,164 @@
+body{
+    height: 500px;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+#ana{
+    width: 98.9vw;
+    height: 200px;
+    background-color: darkgray;
+}
+
+#nav{
+    height: 18vh;
+    width: 100%;
+    background-color: rgb(52, 52, 52);
+    display: flex;
+    justify-content: space-between;
+}
+
+#logo{
+    height: 10vh;
+    width: 20vh;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5vh;
+    margin: 2vw;
+    border-radius: 10px;
+    border: 3px black;
+}
+#contact{
+    height: 10vh;
+    width: 20vh;
+    background-color: darkgray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2.5vh;
+    margin: 2vw;
+    border-radius: 10px;
+    border: 10px black;
+}
+
+#bod{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#isim{
+    display: flex;
+    justify-content: center; /*horizontal (yatay)*/
+    align-items: center;    /*vertical (dikey)*/
+    width: 100%;
+    background-color: darkolivegreen;
+    height: 600px  ;
+    background: url(https://media.istockphoto.com/vectors/programming-design-concept-vector-id947663966?k=20&m=947663966&s=612x612&w=0&h=JUMJJkuDL6c9vReaJVL3Y4pDvJtqMzSVVYiJ6CSE-8A=)no-repeat;
+    background-size: 100%;
+    background-position:center;
+}
+#yazı{
+    text-align: center;
+    width: 1350px;
+    opacity: 60%;
+    background-color:whitesmoke;
+    height: 40vh;
+    border-radius: 10px;
+}
+/* #sol{
+    float: left;
+    height: 10vh;
+    background-color: gray;
+    display: flex;
+    height: 30vh;
+    width: 40vh;    
+    margin: 2vw;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    font-size: 40px;
+    color:black;
+}
+#sağ{
+    float: right;
+    height: 10vh;
+    background-color: gray;
+    display: flex;
+    height: 30vh;
+    width: 40vh;
+    margin: 2vw;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    font-size: 40px;
+    color: bisque;
+} */
+#altkısım{
+    width: 920px;
+    height: 400px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    background: url(https://clipart.com/thumbs.php?f=/014/batch_01/LionLifter_tnb.png) no-repeat;
+    background-size: 400px;
+    display: flex;
+    margin-left: 450px;
+    margin-top: 250px;
+}
+#textalt{
+    text-align: center;
+    float: right;
+    width: 400px;
+    height: 400px;
+    display: flex;
+    border-radius: 100px;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 700px;
+    font-size: 30px;
+    margin-right: 500px;
+}
+#footer{
+    background-color: black;
+    width: 100%;
+    height: 100px;
+    margin-top: 750px;
+}
+button{
+    box-shadow: rgba(240, 46, 46, 0.4) 0px 5px, rgba(240, 46, 46, 0.3) 0px 10px, rgba(240, 46, 46, 0.2) 0px 15px, rgba(240, 46, 46, 0.1) 0px 20px, rgba(240, 46, 170, 0.05) 0px 25px;
+    width: 100px;
+    background-color: firebrick;
+    color: white;
+    border-radius: 20px;
+    font-family: 'Poiret One', cursive;
+    font-size: 20px;
+    opacity: 100%;
+}
+#ikinciresim{
+    background: url(https://clipart.com/thumbs.php?f=/014/batch_01/RemoteDog_tnb.png) no-repeat;
+    background-size: 400px;
+    width: 920px;
+    height: 220px;
+    margin-left: 450px;
+
+}
+#textalt2{
+    text-align: center;
+    float: right;
+    width: 400px;
+    height: 100px;
+    display: flex;
+    border-radius: 100px;
+    font-family: 'Roboto Mono', monospace;
+    margin-top: 300px;
+    font-size: 30px;
+    margin-right: 500px;
+}
